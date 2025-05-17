@@ -1,0 +1,21 @@
+{
+  "name": "vscode-chronica-theme",
+  "displayName": "Chronica Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chronica Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chronica-Pink-color-theme.json"
+      }
+    ]
+  }
+}
