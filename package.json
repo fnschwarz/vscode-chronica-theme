@@ -1,14 +1,33 @@
 {
-  "name": "vscode-chronica-theme",
+  "name": "chronica-theme",
   "displayName": "Chronica Theme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Dark theme with pink accents. Clean, focused, and easy on the eyes during long coding sessions.",
+  "version": "1.0.0",
+  "publisher": "fnschwarz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fnschwarz/vscode-chronica-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Night Theme",
+    "Pink Theme",
+    "Chronica",
+    "Chronica Theme",
+    "Chronica Pink"
+  ],
+  "scripts": {
+    "build": "vsce package"
+  },
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "",
   "contributes": {
     "themes": [
       {
