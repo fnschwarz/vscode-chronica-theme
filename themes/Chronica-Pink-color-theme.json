@@ -187,7 +187,13 @@
       "scope": "entity.other.attribute-name.class",
       "settings": {
         "foreground": "#eccc8a",
-        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Entity Attribute Name Pseudo Element",
+      "scope": "entity.other.attribute-name.pseudo-class",
+      "settings": {
+        "foreground": "#c6a0f6",
       }
     },
 
