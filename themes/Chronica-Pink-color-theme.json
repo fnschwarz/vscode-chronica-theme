@@ -1842,6 +1842,13 @@
       "settings": {
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "Property JS/TS",
+      "scope": "variable.other.property.js,variable.other.property.ts",
+      "settings": {
+        "foreground": "#ffa2f7"
+      }
     }
   ],
   "colors": {
