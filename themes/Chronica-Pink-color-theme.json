@@ -1845,9 +1845,23 @@
     },
     {
       "name": "Property JS/TS",
-      "scope": "variable.other.property.js,variable.other.property.ts",
+      "scope": "variable.other.property.js,variable.other.property.ts,variable.other.constant.property.js,variable.other.constant.property.ts",
       "settings": {
         "foreground": "#ffa2f7"
+      }
+    },
+    {
+      "name": "Type Primitive JS/TS",
+      "scope": "support.type.primitive.js,support.type.primitive.ts",
+      "settings": {
+        "foreground": "#ffc883"
+      }
+    },
+    {
+      "name": "Support Type JS/TS",
+      "scope": "support.type.builtin.js,support.type.builtin.ts",
+      "settings": {
+        "foreground": "#ff7373"
       }
     }
   ],
