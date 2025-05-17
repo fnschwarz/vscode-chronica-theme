@@ -190,7 +190,7 @@
       }
     },
     {
-      "name": "Entity Attribute Name Pseudo Element",
+      "name": "Entity Attribute Name Pseudo Class",
       "scope": "entity.other.attribute-name.pseudo-class",
       "settings": {
         "foreground": "#c6a0f6",
