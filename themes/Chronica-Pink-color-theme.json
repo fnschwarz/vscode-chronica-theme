@@ -102,7 +102,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#d0f5f1",
+        "foreground": "#d2e7e6",
       }
     },
 
@@ -145,14 +145,14 @@
         "support.variable.property"
       ],
       "settings": {
-        "foreground": "#ade9e6",
+        "foreground": "#bee7e5",
       }
     },
     {
       "name": "Variable Object Property",
       "scope": "variable.other.object.property",
       "settings": {
-        "foreground": "#eccc8a",
+        "foreground": "#ffd9b6",
         "fontStyle": "italic"
       }
     },
@@ -164,7 +164,7 @@
       "name": "Entity Tag",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#ade9e6"
+        "foreground": "#bee7e5"
       }
     },
     {
