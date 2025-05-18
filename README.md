@@ -1,4 +1,4 @@
-![preview](https://github.com/user-attachments/assets/53370bc5-fa52-4a9f-be53-1604968d4c5a)
+![preview](images/chronica-pink-preview.png)
 
 # Chronica
 
