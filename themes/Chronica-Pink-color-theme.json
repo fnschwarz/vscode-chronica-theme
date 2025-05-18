@@ -11,12 +11,21 @@
       }
     },
     {
+      "name": "Meta Tag",
+      "scope": "meta.tag",
+      "settings": {
+        "foreground": "#eeeeee",
+      }
+    },
+    {
       "name": "Meta Object Literal",
       "scope": "meta.object-literal",
       "settings": {
         "foreground": "#c6a0f6",
       }
     },
+
+
     {
       "name": "Global Comment",
       "scope": "comment",
@@ -75,12 +84,14 @@
       }
     },
     {
-      "name": "Punctuation",
+      "name": "Global Punctuation",
       "scope": "punctuation",
       "settings": {
         "foreground": "#eeeeee"
       }
     },
+
+
     {
       "name": "Punctuation Accessor",
       "scope": "punctuation.accessor",
@@ -90,19 +101,48 @@
     },
     {
       "name": "Punctuation Expression",
-      "scope": "punctuation.definition.template-expression",
+      "scope": "punctuation.definition",
       "settings": {
         "foreground": "#c6a0f6",
       }
     },
     {
-      "name": "Punctuation Tag/String",
+      "name": "Punctuation Question Mark",
+      "scope": "punctuation.separator.question-mark",
+      "settings": {
+        "foreground": "#ed8796",
+      }
+    },
+    {
+      "name": "Punctuation Tag",
       "scope": [
-        "punctuation.definition.tag",
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#eccae8",
+      }
+    },
+    {
+      "name": "Punctuation String",
+      "scope": [
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#d2e7e6",
+        "foreground": "#fae9c8",
+      }
+    },
+    {
+      "name": "Punctuation Expression",
+      "scope": "punctuation.definition.comment",
+      "settings": {
+        "foreground": "#7d7177",
+      }
+    },
+    {
+      "name": "Variable Language",
+      "scope": "variable.language",
+      "settings": {
+        "fontStyle": "italic"
       }
     },
 
@@ -114,7 +154,8 @@
       "scope": [
         "entity.name.function",
         "support.function",
-        "variable.function"
+        "variable.function",
+        "meta.function-call"
       ],
       "settings": {
         "foreground": "#a7c3f5"
@@ -125,10 +166,29 @@
       "scope": [
         "entity.name.class",
         "support.class",
-        "entity.name.type"
+        "entity.name.type",
+        "variable.other.object"
       ],
       "settings": {
         "foreground": "#eccc8a"
+      }
+    },
+    {
+      "name": "Class",
+      "scope": [
+        "support.type",
+        "variable.other.enummember",
+        "entity.name.variable.enum-member"
+      ],
+      "settings": {
+        "foreground": "#ace6b0"
+      }
+    },
+    {
+      "name": "Entity Name Variable",
+      "scope": "entity.name.variable",
+      "settings": {
+        "foreground": "#eeeeee"
       }
     },
     {
@@ -150,12 +210,30 @@
     },
     {
       "name": "Variable Object Property",
-      "scope": "variable.other.object.property",
+      "scope": "variable.object.property",
       "settings": {
-        "foreground": "#ffd9b6",
+        "foreground": "#c6a0f6",
         "fontStyle": "italic"
       }
     },
+    {
+      "name": "Variable Other Object Property",
+      "scope": "variable.other.object.property",
+      "settings": {
+        "foreground": "#ffcdb6",
+        "fontStyle": "italic"
+      }
+    },
+
+    {
+      "name": "Variable Other Global",
+      "scope": "variable.other.global",
+      "settings": {
+        "foreground": "#ace6b0",
+        "fontStyle": "italic"
+      }
+    },
+    
 
 
 
@@ -164,7 +242,7 @@
       "name": "Entity Tag",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#bee7e5"
+        "foreground": "#e79ddd"
       }
     },
     {
@@ -194,6 +272,13 @@
       "scope": "entity.other.attribute-name.pseudo-class",
       "settings": {
         "foreground": "#c6a0f6",
+      }
+    },
+    {
+      "name": "Entity Name Namespace",
+      "scope": "entity.name.namespace",
+      "settings": {
+        "foreground": "#eeeeee",
       }
     },
 
