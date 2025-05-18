@@ -3,7 +3,7 @@
   "displayName": "Chronica Theme",
   "description": "Dark theme with pink accents. Clean, focused, and easy on the eyes during long coding sessions.",
   "version": "1.0.0",
-  "publisher": "fnschwarz",
+  "publisher": "finn-schwarz",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -19,7 +19,8 @@
     "Chronica Pink"
   ],
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package",
+    "publish": "vsce publish"
   },
   "engines": {
     "vscode": "^1.100.0"
