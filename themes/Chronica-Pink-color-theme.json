@@ -35,7 +35,6 @@
     {
       "name": "Global settings",
       "settings": {
-        "background": "#011627",
         "foreground": "#f0e8ed"
       }
     },
@@ -254,7 +253,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#ff2c83",
         "foreground": "#ffffff"
       }
     },
@@ -262,8 +260,7 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff",
-        "background": "#d3423e"
+        "foreground": "#d3423e",
       }
     },
     {
@@ -591,24 +588,21 @@
       "name": "Invalid Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#020e14",
-        "background": "#ed8796"
+        "foreground": "#ed8796",
       }
     },
     {
       "name": "Invalid Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "background": "#8BD649",
-        "foreground": "#ffffff"
+        "foreground": "#abe07c"
       }
     },
     {
       "name": "Invalid Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff",
-        "background": "#ec5f67"
+        "foreground": "#ec5f67",
       }
     },
     {
