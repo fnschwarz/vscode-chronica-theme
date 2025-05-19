@@ -1,8 +1,8 @@
-![preview](images/chronica-pink-preview.png)
-
 # Chronica
 
 Chronica is a minimal, clean theme designed for developers who prefer a calm and focused interface. The current release includes Chronica Pink, a soft pink color scheme with subtle contrasts, ideal for reducing visual fatigue while keeping things aesthetically sharp.
+
+![preview](images/chronica-pink-preview.png)
 
 More color variants are planned and will be added under the same project as they’re ready.
 
