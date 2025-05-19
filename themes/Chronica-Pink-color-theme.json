@@ -499,7 +499,7 @@
       "name": "Variable Property Other object property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#fdb290",
+        "foreground": "#faf2af",
         "fontStyle": "italic"
       }
     },
