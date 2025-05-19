@@ -23,7 +23,7 @@
     "publish": "vsce publish"
   },
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
