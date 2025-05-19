@@ -398,7 +398,7 @@
         "meta.property-list entity.name.tag"
       ],
       "settings": {
-        "foreground": "#CB80A4",
+        "foreground": "#ECCC8A",
         "fontStyle": ""
       }
     },
@@ -449,7 +449,7 @@
       "name": "Meta Property Name",
       "scope": "meta.property-name",
       "settings": {
-        "foreground": "#CB80A4"
+        "foreground": "#ECCC8A"
       }
     },
     {
@@ -1150,7 +1150,7 @@
       "name": "Strings in JSON values",
       "scope": "string.quoted.double.json punctuation.definition.string.json",
       "settings": {
-        "foreground": "#CB80A4"
+        "foreground": "#ECCC8A"
       }
     },
     {
@@ -1256,7 +1256,7 @@
       "name": "Markdown Raw Code + others",
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#CB80A4"
+        "foreground": "#ECCC8A"
       }
     },
     {
